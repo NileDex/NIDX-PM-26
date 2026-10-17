@@ -1,0 +1,41 @@
+# KiCad project gitignore
+# Project: NIDX-PM-26
+
+# Schematics (excluded from git repository)
+*.kicad_sch
+*.sch
+*.net
+
+# KiCad temporary, autosave, and backup files
+*.bak
+*.kicad_prl
+*-save.kicad_pcb
+*-save.kicad_sch
+*-bak.kicad_sch
+*-bak.kicad_pcb
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.lck
+~*
+_autosave-*
+
+# Auto-routing and intermediate netlists/files
+*.dsn
+*.ses
+*.bdr
+
+# Report files (uncomment if you prefer not tracking reports)
+# *.rpt
+
+# KiCad cache
+fp-info-cache
+
+# Local editor and IDE folders
+.history/
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
