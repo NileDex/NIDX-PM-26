@@ -1,3 +1,7 @@
+<!-- boardrepo-badge:v1 -->
+[![View on BoardRepo](https://boardrepo.com/badge/github.svg?v=2)](https://boardrepo.com/b/abe7d2d4-ddd6-4d37-b60d-a06ef9e4d622?ref=github-readme)
+<!-- /boardrepo-badge:v1 -->
+
 # NIDX-PM-26: Dual-Channel MCU Power Management & Protection Module
 
 ![Project](mcu-protection.png)
